@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHybrid", "BlazorHybrid\BlazorHybrid\BlazorHybrid.csproj", "{97138041-EC43-41CC-B0D0-27436FB2AE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHybrid.Client", "BlazorHybrid\BlazorHybrid.Client\BlazorHybrid.Client.csproj", "{AEE0DC6B-DD9D-4815-B4DD-AA6ED6D82512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97138041-EC43-41CC-B0D0-27436FB2AE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97138041-EC43-41CC-B0D0-27436FB2AE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97138041-EC43-41CC-B0D0-27436FB2AE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97138041-EC43-41CC-B0D0-27436FB2AE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE0DC6B-DD9D-4815-B4DD-AA6ED6D82512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE0DC6B-DD9D-4815-B4DD-AA6ED6D82512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE0DC6B-DD9D-4815-B4DD-AA6ED6D82512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE0DC6B-DD9D-4815-B4DD-AA6ED6D82512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
