@@ -15,4 +15,4 @@ This project includes examples of three primary Blazor render modes:
 
 ## Learn More
 
-For a detailed explanation of Blazor render modes and when to use each one, check out my blog post: [Blazor Render Modes](https://intrepid-developer/blogs/blazor-render-modes)
+For a detailed explanation of Blazor render modes and when to use each one, check out my blog post: [Blazor Render Modes](https://intrepid-developer.com/blog/blazor-render-modes)
